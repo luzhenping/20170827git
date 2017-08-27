@@ -1,2 +1,5 @@
 *.class
 *.properties
+*.a
+*.b
+*.docx
